@@ -1,0 +1,30 @@
+body{
+      background-color: #1E1E1E;
+    }
+h1  {
+      font-family:"Regular Libre Baskerville",serif ;
+      color: white;
+      text-align: center;
+      width:100%;
+      height:100%;
+    }
+img {
+    border: 5px solid white;
+    height: 100%;
+    width: 100%;
+    margin-top: 25%;
+}
+
+p{
+      font-family:"Regular Libre Baskerville",serif ;
+      color: white;
+      text-align: center;
+      width:100%;
+      height:100%;
+}
+
+.poster{
+        width: 50%;
+        margin-top: auto;
+        margin-left:25%;
+}
